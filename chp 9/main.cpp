@@ -1,7 +1,8 @@
-﻿#include <iterator>
+﻿// main.cpp
+#include <iterator>
 #include <iostream>
 #include <string>
-#include "my algs_T.h.h"
+#include "my_algs_T.h"
 
 using namespace std;
 
